@@ -1,8 +1,8 @@
-Okay! I am here today to learn you how to work with git and github. 
-This lecture will remove your all confusion about git and github. Our learning supporter from Stack Learner team. 
-Now Without westing  time let's jump right in. 
+Okay! I am here today to teach you how to work with git and github. 
+This lecture will remove your all confusion about git and github. Our teaching supporter from "Stack Learner" team. 
+Now Without westing time --- let's jump right in. 
 
-click this link [https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw] and checkout your confusions based  tutorials to move on.
+click this link ==> [https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw] and checkout your confusions based tutorials to move on.
 
 
 ThanQ!
